@@ -85,8 +85,8 @@ author:
   bio              : "Postdoc at Donders Centre for Cognition & Max Planck Institute for Psycholinguistics"
   location         : "Nijmegen, The Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Trujillo+JP&cauthor_id=31079227"
+  googlescholar    : "https://scholar.google.nl/citations?hl=en&user=33SwqdgAAAAJ&view_op=list_works&gmla=AJsN-F6A_95vzDfmbqkh44nUZfXBw-O2yyWHxFRd1YMWoAWvvymGpHj7eDi_Vo4enmlFHmhWqfOxL2pt7EsC01VnXpMRN43UuvXcpXOvV-4xYw57HNbSVqsm"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4713-376X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
