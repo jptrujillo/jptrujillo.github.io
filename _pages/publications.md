@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ### Pre-prints
 - **Trujillo, J.P.**, Özyürek, A., Holler, J., & Drijvers, L. (2020). Evidence for a Multimodal Lombard Effect: Speakers modulate not only speech but also gesture to overcome noise.[[link]https://psyarxiv.com/3jdmq/]
 
