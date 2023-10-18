@@ -15,6 +15,7 @@ Apart from research, I enjoy art (drawing, watercolor, and urban sketching, most
 
 In between research and leisure, I also very much like solving problems in Python, and generally working on methodology and making quantitative methods more accessible. In line with this, I'm part of the [ENVISIONbox](https://envisionbox.org/) team, where we develop methods tutorials and open code, and provide workshops and summer/winterschools.
 
+
 Current Research Interests
 ======
 Overall, my research aims to understand how we use the ensemble of visual and vocal modalities available to us in order to communicate. 
@@ -31,5 +32,7 @@ Motion tracking, gesture annotation, kinematic analysis, virtual animation, fMRI
 Current Teaching
 ======
 Language, Speech & Dialogue Processing - (BSc AI) UVA
+
 [Methods in Multimodal Communication](https://lotschool.nl/events/lot-winter-school-2024/#toggle-id-5) - LOT Winter School 2024
+
 Social Interaction Dynamics workshop (early 2024 - under construction)
