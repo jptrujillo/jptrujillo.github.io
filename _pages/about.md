@@ -13,7 +13,7 @@ I am an assistant professor at the Institute for Logic, Language & Computation (
 Previously I worked as postdoc with Judith Holler in the Communication in Social Interaction (CoSI) group, based at the Donders Centre for Cognition and Max Planck Institute for Psycholinguistics. My research largely focused on using motion tracking to capture movement kinematics and their role in social communicative behavior, and in particular for the signaling of social actions.
 Apart from research, I enjoy art (drawing, watercolor, and urban sketching, mostly), bouldering,  (barefoot) running, martial arts, gaming, and spending time with my kid.
 
-In between research and leisure, I also very much like solving problems in Python, and generally working on methodology and making quantitative methods more accessible. In line with this, I'm part of the [ENVISIONbox](envisionbox.org) team, where we develop methods tutorials and open code, and provide workshops and summer/winterschools.
+In between research and leisure, I also very much like solving problems in Python, and generally working on methodology and making quantitative methods more accessible. In line with this, I'm part of the [ENVISIONbox](https://envisionbox.org/) team, where we develop methods tutorials and open code, and provide workshops and summer/winterschools.
 
 Current Research Interests
 ======
@@ -22,6 +22,14 @@ How do we orchestrate, face, head, body, hands, and speech together into one mul
 How do we adapt this complex array of behaviors to different contexts? 
 How is neurodiversity reflected in different styles of communication, and how does this impact social interaction?
 
+
 Methods: Expertise and Interests
 ======
 Motion tracking, gesture annotation, kinematic analysis, virtual animation, fMRI, interaction dynamics 
+
+
+Current Teaching
+======
+Language, Speech & Dialogue Processing (Bachelor of Artificial Intelligence) - University of Amsterdam (2024)
+(Methods in Multimodal Communication)[https://lotschool.nl/events/lot-winter-school-2024/#toggle-id-5] - LOT Winter School 2024
+Social Interaction Dynamics workshop (early 2024 - under construction)
