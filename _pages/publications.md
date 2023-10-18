@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Pre-prints & in-press
+## Pre-prints & in-press
  Trujillo, J.P. Motion capture technology for the study of gesture. In Cienki, A. (Ed.), The Cambridge Handbook of Gesture Studies. Cambridge University Press.
 
-### Publications
+
+## Publications
 **Trujillo, J. P.**, & Holler, J. (2023). Interactionally embedded gestalt principles of multimodal human communication. Perspectives on Psychological Science. 18(5). [[link](doi:10.1177/17456916221141422)]
 
 **Trujillo, J.P.**, Dideriksen, C., Tylén, K., Christiansen, M., & Fusaroli, R. (2023). The dynamic interplay of kinetic and linguistic coordination in Danish and Norwegian conversation. Cognitive Science. 47(6): e13298[[link](https://doi.org/10.1111/cogs.13298)]
