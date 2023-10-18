@@ -30,6 +30,6 @@ Motion tracking, gesture annotation, kinematic analysis, virtual animation, fMRI
 
 Current Teaching
 ======
-Language, Speech & Dialogue Processing (Bachelor of Artificial Intelligence) - University of Amsterdam (2024)
-(Methods in Multimodal Communication)[https://lotschool.nl/events/lot-winter-school-2024/#toggle-id-5] - LOT Winter School 2024
+Language, Speech & Dialogue Processing - (BSc AI) UVA
+[Methods in Multimodal Communication](https://lotschool.nl/events/lot-winter-school-2024/#toggle-id-5) - LOT Winter School 2024
 Social Interaction Dynamics workshop (early 2024 - under construction)
