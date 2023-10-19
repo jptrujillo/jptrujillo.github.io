@@ -14,6 +14,7 @@ redirect_from:
 Previous Work
 ======
 Post-doc at Donders Centre for Cognition / Max Planck Institute for Psycholinguistics in the Communication in Social Interaction lab
+
 Ph.D, thesis title: *Movement Speaks for Itself: the Neural and Kinematic Dynamics of Communicative Action and Gesture*, Radboud University, Nijmegen, The Netherlands, 2019
 
   
