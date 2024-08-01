@@ -20,6 +20,12 @@ Ph.D, thesis title: *Movement Speaks for Itself: the Neural and Kinematic Dynami
   
 Invited Presentations
 ======
+
+2024
+- July 14   Speaker at the "Workshop on Embodied Voices", at the Robotics, Science and Systems Conference in Delft, The Netherlands
+
+- May 16    Presentation at University of Neuchatel, Switzerland. Host: Prof. Adrian Bangerter
+
 2022
 - Oct. 13   Speaker at symposium “Words, Bones, Genes, Tools”, hosted at DFG Center for Advanced Studies at University of Tübingen, Germany
 
@@ -33,7 +39,7 @@ Invited Presentations
 2018
 - June 15	Speaker at (T)here and Now symposium of Playful Arts Festival in Den Bosch, The Netherlands
 
-- June 3	Speaker at “Gesture and Technology” workshop at University of Warwick
+- June 3	Speaker at “Gesture and Technology” workshop at University of Warwick, England
 
 - January 22 	Presentation for the Department of Psychology at University of Warwick. Host: Dr. John Michael
 
