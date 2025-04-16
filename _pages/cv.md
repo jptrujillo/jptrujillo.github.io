@@ -9,9 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Funding and Awards
+======
+2025
+- NWO TDCC-SSH - <b>Co-Pilot</b><br>
+"SYNAPSIS : Synergy Network and Platform for Integrating Audiovisual Data Archiving and Stewardship in Social Sciences <br>
+and Humanities"<br>
 
+- Universite d'Orléans <br>
+Mobility Grant for Invited Researcher
 
-Previous Work
+Previous Work 
 ======
 Post-doc at Donders Centre for Cognition / Max Planck Institute for Psycholinguistics in the Communication in Social Interaction lab
 
@@ -22,6 +30,8 @@ Invited Presentations
 ======
 
 2024
+- Oct. 2    Speaker at the Center for Language, Interaction and Culture (CLIC) colloquium at University of California Los Angeles (UCLA), USA
+
 - July 14   Speaker at the "Workshop on Embodied Voices", at the Robotics, Science and Systems Conference in Delft, The Netherlands
 
 - May 16    Presentation at University of Neuchatel, Switzerland. Host: Prof. Adrian Bangerter
@@ -63,6 +73,12 @@ In the Media
 2016
 -  October 25	Article on NemoKennisLink titled [Hoe weet jij dat een gebaar communicatief is?](https://www.nemokennislink.nl/publicaties/hoe-weet-je-dat-een-gebaar-iets-betekent/) (EN: How do you know if a gesture is communicative?) regarding ongoing and upcoming research projects
 
+Other Honors
+======
+2025
+- member of PhD Manuscript Committee for Tiffany Matej Hrkalovic (Technical University Delft)
+2024
+- member of PhD Manuscript Committee for Joanna Rutkowska (Radboud University Nijmegen)
 
 Public Outreach
 ======
