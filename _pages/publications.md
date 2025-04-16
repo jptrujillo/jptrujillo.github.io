@@ -6,17 +6,20 @@ author_profile: true
 ---
 
 ## Pre-prints & in-press
- **Trujillo, J.P.** Motion capture technology for the study of gesture. In Cienki, A. (Ed.), The Cambridge Handbook of Gesture Studies. Cambridge University Press.
+**Trujillo, J.P.**, Straube, B., He, Y. Discourse context and co-speech gestures jointly shape hierarchical prediction during the processing of a multimodal narrative. [OSF](https://osf.io/preprints/psyarxiv/89qcn_v1?view_only=)
 
+Pouw, W., Yung, B., Shaikh, S. A., **Trujillo, J.P.**, Rueda-Toicen, A., de Melo, G., & Owoyele, B. EnvisionHGdetector: A Computational Framework for Co-Speech Gesture Detection, Kinematic Analysis, and Interactive Visualization. [OSF](https://osf.io/preprints/psyarxiv/psg5f_v1)
 
-## Publications
+## Some Key Publications
+For a complete list of publications,. see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=33SwqdgAAAAJ&view_op=list_works&sortby=pubdate)
+
+**Trujillo, J.P.**, Holler, J. Conversational facial signals combine into compositional meanings that change the interpretation of speaker intentions. Sci Rep 14, 2286 (2024).  [[link](https://doi.org/10.1038/s41598-024-52589-0)]
+
+**Trujillo, J.P.** (2024) Motion capture technology for the study of gesture. In Cienki, A. (Ed.), The Cambridge Handbook of Gesture Studies. Cambridge University Press.
+
 **Trujillo, J. P.**, & Holler, J. (2023). Interactionally embedded gestalt principles of multimodal human communication. Perspectives on Psychological Science. 18(5). [[link](doi:10.1177/17456916221141422)]
 
 **Trujillo, J.P.**, Dideriksen, C., Tylén, K., Christiansen, M., & Fusaroli, R. (2023). The dynamic interplay of kinetic and linguistic coordination in Danish and Norwegian conversation. Cognitive Science. 47(6): e13298[[link](https://doi.org/10.1111/cogs.13298)]
-
-Nota, N., **Trujillo, J.P.**, Holler, J. (2023) Specific facial signals associate with categories of social actions conveyed through questions. PLoS ONE 18(7): e0288104. [[link](https://doi.org/10.1371/journal.pone.0288104)]
-
-Körner, A., Castillo, M., Drijvers, L., Fischer, M. H., Günther, F., Marelli, M., Platonova, O., Rinaldi, L., Shaki, S., **Trujillo, J. P.**, Tsaregorodtseva, O., & Glenberg, A. M. (2023). Embodied Processing at Six Linguistic Granularity Levels: A Consensus Paper. Journal of Cognition, 6(1): 60, pp. 1–28.[[link]( https://doi.org/10.5334/joc.231)]   
 
 **Trujillo, J. P.**, Ozyurek, A., Kan, C., Sheftel-Simanova, I., & Bekkering, H. (2022). Differences in functional brain organization during gesture recognition between autistic and neurotypical individuals. Social Cognitive and Affective Neuroscience. Advance online publication.[[link](https://doi.org/10.1093/scan/nsac026)]
 
