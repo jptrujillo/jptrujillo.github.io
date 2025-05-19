@@ -30,7 +30,7 @@ Methods: Expertise and Interests
 Motion tracking, gesture annotation, kinematic analysis, virtual animation, fMRI, interaction dynamics 
 
 
-Current Teaching
+Current Teaching & Upcoming Workshops
 ======
 2025      - co-coordinating <i>[Unboxing Multimodality: Analysis Pipelines for Behavioral Dynamics](https://envisionbox.org/images/summerschool2025.gif)</i> - (summerschool) University of Amsterdam <br>
 2025      - one-day workshop - <i>"Bringing Together Qualitative and Quantitative Methods for Annotating Multimodal Communicative Behavior"</i> at [ACORPO Thematic School](https://acorpo.sciencesconf.org/) hosted by French National Centre for Scientific Research (CNRS) <br>
