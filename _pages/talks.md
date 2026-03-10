@@ -9,11 +9,14 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Research Presentations
-- **Invited speaker** at Interaction and Inclusion Workshop (January, 2026 - Orléans, FR)<br>
-"Virtualizing the Body to Improve Automatic Hand Shape Recognition"
+- **keynote** at CORCOLAND: Collaborative Research on Communicative and Language Development Workshop (April 22nd, 2026 - Aix-Marseille University, FR )<br>
+Title TBA
 
 
 ### Recent Research Presentations
+- **Invited speaker** at Interaction and Inclusion Workshop (January, 2026 - Orléans, FR)<br>
+"Virtualizing the Body to Improve Automatic Hand Shape Recognition"
+
 - Internationl Conference on Multimodality [ICOM12](https://sites.google.com/rug.nl/12icom/home?authuser=0) (October - Groningen, NL)<br>
 "Multimodal Language Challenges Across Social Contexts as Experienced by Autistic Adults"
 
