@@ -14,14 +14,16 @@ Previously I worked as postdoc with Judith Holler in the Communication in Social
 
 Apart from research, I enjoy art (drawing, watercolor, and urban sketching, mostly), bouldering,  (barefoot) running, martial arts, gaming, and spending time with my family.
 
-In between research and leisure, I also very much like solving problems in Python, and generally working on methodology and making quantitative methods more accessible. In line with this, I'm part of the [ENVISIONbox](https://envisionbox.org/) team, where we develop methods tutorials and open code, and provide workshops and summer/winterschools.
+In between research and leisure, I also very much like solving problems in Python, and generally working on methodology and making quantitative methods more accessible. In line with this, I'm part of the [EnvisionBOX](https://envisionbox.org/) team, where we develop methods tutorials, open code, didactic materials related to multimodal data, and organize workshops and summer/winterschools.
 
 
 General Research Interests
 ======
-I'm interested in how our environment and our embodiment shapes the way that we communicate and understand one another. For this I'm very inspired by, and often drawing upon, work from gesture studies, psycholinguistics, dynamical systems, ecological psychology, and joint action, to name a few. Two of the main research questions I am pursuing with my work are: <br>
+I'm interested in how our environment and our embodiment shapes the way that we communicate and understand one another.  Using video recordings, behavioral experiments, and virtual interaction paradigms, I investigate how communication and social action emerge through embodied interaction. For this I'm very inspired by, and often drawing upon, work from gesture studies, psycholinguistics, dynamical systems, ecological psychology, and joint action, to name a few. Two of the main research questions I am pursuing with my work are: <br>
 How do differences in our physical embodiment, including different neurotypes or differences in sensory processing, shape how we embody and achieve communication? <br>
 How can we leverage our understanding of communication or interaction differences in order to improve communication?
+<br>
+If you're an undergraduate student and interested in working with me on one of these projects, please feel free to get in touch!
 
 
 Methods: Expertise and Interests
