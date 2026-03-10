@@ -5,19 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Pre-prints & in-press
-**Trujillo, J.P.**, Straube, B., He, Y. Discourse context and co-speech gestures jointly shape hierarchical prediction during the processing of a multimodal narrative. [OSF](https://osf.io/preprints/psyarxiv/89qcn_v1?view_only=)
 
-Pouw, W., Yung, B., Shaikh, S. A., **Trujillo, J.P.**, Rueda-Toicen, A., de Melo, G., & Owoyele, B. EnvisionHGdetector: A Computational Framework for Co-Speech Gesture Detection, Kinematic Analysis, and Interactive Visualization. [OSF](https://osf.io/preprints/psyarxiv/psg5f_v1)
+For a more up-to-date overview, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=33SwqdgAAAAJ&view_op=list_works&sortby=pubdate) <br>
+
+## Pre-prints & in-press
+**Trujillo, J.P.**, Straube, B., He, Y. Discourse context and co-speech gestures jointly shape hierarchical prediction during the processing of a multimodal narrative. [[OSF](https://osf.io/preprints/psyarxiv/89qcn_v1?view_only=)]
+
+Pouw, W., Yung, B., Shaikh, S. A., **Trujillo, J.P.**, Rueda-Toicen, A., de Melo, G., & Owoyele, B. EnvisionHGdetector: A Computational Framework for Co-Speech Gesture Detection, Kinematic Analysis, and Interactive Visualization. [[OSF](https://osf.io/preprints/psyarxiv/psg5f_v1)]
+
+Białek, A., Pouw, W., **Trujillo, J.,** Hasselman, F., Owoyele, B.A., Siekiera, N., Rączaszek-Leonardi, J. and Wiltshire, T.J. An Open-Source Standardized Pipeline for Equitable Observations of Interactive Behavioral Dynamics: Theory-driven Measurement, Analysis, and Masking [In Press at *American Psychologist*] [[link](https://osf.io/preprints/psyarxiv/ajks6)]
+
+## Recent Publications
+Silva, E. S., Drijvers, L., & **Trujillo, J. P.** (2026). Exploring auditory perception experiences in daily situations in autistic adults. Autism, 30(2), 439-451. [[link](https://doi.org/10.1177/13623613251391492)]
+
+Loy, L., **Trujillo, J.P.** & Roelofsen, F. Virtual agents as a scalable tool for diverse, robust gesture recognition. Behav Res 58, 41 (2026). [[link](https://doi.org/10.3758/s13428-025-02914-w)]
+
+de Marchena, A., Cuneo, N., Gurbuz, E., Brown, M., **Trujillo, J.P.**, & Bergstrom, J. Communication in Autistic Adults: An Action-Focused Review. Curr Psychiatry Rep 27, 471–481 (2025). [[link](https://doi.org/10.1007/s11920-025-01616-6)]
+
 
 ## Some Key Publications
-For a complete list of publications,. see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=33SwqdgAAAAJ&view_op=list_works&sortby=pubdate)
 
 **Trujillo, J.P.**, Holler, J. Conversational facial signals combine into compositional meanings that change the interpretation of speaker intentions. Sci Rep 14, 2286 (2024).  [[link](https://doi.org/10.1038/s41598-024-52589-0)]
 
 **Trujillo, J.P.** (2024) Motion capture technology for the study of gesture. In Cienki, A. (Ed.), The Cambridge Handbook of Gesture Studies. Cambridge University Press.
 
-**Trujillo, J. P.**, & Holler, J. (2023). Interactionally embedded gestalt principles of multimodal human communication. Perspectives on Psychological Science. 18(5). [[link](doi:10.1177/17456916221141422)]
+**Trujillo, J. P.**, & Holler, J. (2023). Interactionally embedded gestalt principles of multimodal human communication. Perspectives on Psychological Science. 18(5). [[link](https://doi.org/10.1177/17456916221141422)]
 
 **Trujillo, J.P.**, Dideriksen, C., Tylén, K., Christiansen, M., & Fusaroli, R. (2023). The dynamic interplay of kinetic and linguistic coordination in Danish and Norwegian conversation. Cognitive Science. 47(6): e13298[[link](https://doi.org/10.1111/cogs.13298)]
 
