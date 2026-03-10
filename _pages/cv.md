@@ -11,6 +11,10 @@ redirect_from:
 
 Funding and Awards
 ======
+2026
+- Amsterdam University Fund<br>
+"Improving Interactions in Healthcare for Autistic Adults: A Collaboration Between Research, Community, and Higher Education" (2026-2027)
+
 2025
 - NWO TDCC-SSH - <b>Co-Pilot</b><br>
 "SYNAPSIS : Synergy Network and Platform for Integrating Audiovisual Data Archiving and Stewardship in Social Sciences <br>
@@ -28,6 +32,14 @@ Ph.D, thesis title: *Movement Speaks for Itself: the Neural and Kinematic Dynami
   
 Invited Presentations
 ======
+2026
+- April 22	**keynote** at CORCOLAND: Collaborative Research on Communicative and Language Development Workshop (Aix-Marseilles, FR)
+
+- Jan. 15   Speaker at Interaction and Inclusion Workshop (Orléans, FR)
+
+2025
+- June 11   Speaker at ACORPO Thematic School: Annotation of oral and multimodal corpora ( Île d'Oléron, FR)
+
 
 2024
 - Oct. 2    Speaker at the Center for Language, Interaction and Culture (CLIC) colloquium at University of California Los Angeles (UCLA), USA
