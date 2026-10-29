@@ -9,11 +9,16 @@ author_profile: true
 {% include base_path %}
 
 ### Upcoming Research Presentations
+**Invited speaker** at Workshop on Turn Timing in Conversation (November 25, 2026 - Mannheim, DE) <br>
+"Relating breakdowns in turn-taking stability to changes in multimodal behaviour" 
+
+**keynote** speaker at LingCologne2027 (June 10-11, 2027 - Cologne, DE) <br>
+title TBA
+
+### Some Recent Research Presentations
 - **keynote** at CORCOLAND: Collaborative Research on Communicative and Language Development Workshop (April 22nd, 2026 - Aix-Marseille University, FR )<br>
-Title TBA
+" From Interaction to Data: analytic and experimental tools for studying multimodal communication in interaction" 
 
-
-### Recent Research Presentations
 - **Invited speaker** at Interaction and Inclusion Workshop (January, 2026 - Orléans, FR)<br>
 "Virtualizing the Body to Improve Automatic Hand Shape Recognition"
 
